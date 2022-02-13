@@ -1,6 +1,6 @@
-### Olá eu sou a Lili :)
+### Olá! eu sou a Lili :)
 
-- 🌱 Cursando TI
+- 🌱 Cursando TI 
 
 <div align="center">
   <a href="https://github.com/LiliiF">
