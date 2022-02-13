@@ -13,7 +13,6 @@
   
   <img align="right" alt="Li-Gif" width="180px"  src="https://cdn.discordapp.com/attachments/585243177754296341/942468904947703859/gifzin.gif">
 
-  <img align="center" alt="Li-Gif" width="780em" height="180em"  src="https://media.discordapp.net/attachments/585243177754296341/942555528268251206/R.gif">
 
 
 
