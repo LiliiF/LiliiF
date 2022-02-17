@@ -1,4 +1,4 @@
-### <div align="center">Olá! eu sou a Lili :)</div>
+### Olá! eu sou a Lili :)
 
 - 🌱 Estudando TI 
 - 🍪 18 years 
