@@ -15,7 +15,7 @@
   <img align="center" alt="Lilii-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Lilii-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Lilii-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">   
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/585243177754296341/942468904947703859/gifzin.gif">
+  <img align="right" alt="Lilii-Gif" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/585243177754296341/942468904947703859/gifzin.gif">
 </div>
 
  ##
