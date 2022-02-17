@@ -1,6 +1,6 @@
 ### Olá! eu sou a Lili :)
 
-- 🌱 Cursando TI 
+- 🌱 Estudando TI 
 
 
 <div align="left">
