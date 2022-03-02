@@ -35,7 +35,6 @@
 </div>
 
   
-  ![Snake animation](https://github.com/LiliiF/LiliiF/blob/output/github-contribution-grid-snake.svg)
 
  ## 🍄Total de visitas no meu perfil  <br>
  <p align="center"> 
@@ -44,5 +43,6 @@
 
 </p>
 
+  ![Snake animation](https://github.com/LiliiF/LiliiF/blob/output/github-contribution-grid-snake.svg)
 
 
