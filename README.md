@@ -11,7 +11,10 @@
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LiliiF&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   
-
+## Um pouco sobre a minha jornada no curso de TI
+  ## 
+  Eu estou atualmente cursando TI no 2° Modulo e antes de tudo isso eu não sabia nada sobre oque era ou como era essa área, eu literalmente cai de paraquedas ali 🪂 
+  mas depois de um tempo eu fui conhecendo e aprendendo mais sobre essa área, e oque era tudo aquilo e fui gostando e aprendendo mais. fiz ótimos colegas e agora eu estou aqui     criando um perfil no GitHub haha bom... sejam bem-vindos :)
   
 <div style="display: inline_block"><br>
   
@@ -44,7 +47,7 @@
 ![Snake animation](https://github.com/LiliiF/LiliiF/blob/output/github-contribution-grid-snake.svg)
   
 <div>
- <img src="https://activity-graph.herokuapp.com/graph?username=LiliiF&theme=dracula">
+ <img src="https://activity-graph.herokuapp.com/graph?username=LiliiF&theme=dark">
 </div>
 
 
