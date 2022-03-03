@@ -42,16 +42,5 @@
 
 ![Snake animation](https://github.com/LiliiF/LiliiF/blob/output/github-contribution-grid-snake.svg)
   
-<div>
- <img src="https://activity-graph.herokuapp.com/graph?username=LiliiF&theme=dracula">
-</div>
-  
-
-  
-  <img align="center" alt="Lilii-Gif" height="480px" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/585243177754296341/948757499610284102/kakashi.gif"> 
-  
-
- 
-
 
 
