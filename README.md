@@ -11,15 +11,6 @@
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LiliiF&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
       
-  ## Oi oi pessoas 
-  <img align="left" alt="Lilii-Gif" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/585243177754296341/948755056981848084/Satoru.gif">  
-  
- vou contar um pouco sobre a minha jornada aqui haha Eu estou atualmente cursando TI no 2° Modulo e antes de tudo isso eu não sabia nada sobre oque era ou como era essa área, eu literalmente cai de paraquedas ali 🪂 
-mas depois de um tempo eu fui conhecendo e aprendendo mais sobre essa área, e oque era tudo aquilo e fui gostando e aprendendo mais. fiz ótimos colegas e agora eu estou aqui     criando um perfil no GitHub haha bom... sejam bem-vindos :)
-  
-  
-  
-  
   
 <div style="display: inline_block"><br>
   
