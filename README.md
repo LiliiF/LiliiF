@@ -40,15 +40,6 @@
   # ✉️ Contate-me em:
   <a href="mailto:lilif0458@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
-
-
- ## 🍄Total de visitas no meu perfil  <br>
- <p align="center"> 
-   <img alingn="center" src="https://profile-counter.glitch.me/LiliiF/count.svg" />
- </p>
-
-
-![Snake animation](https://github.com/LiliiF/LiliiF/blob/output/github-contribution-grid-snake.svg)
   
 
 
