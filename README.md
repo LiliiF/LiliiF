@@ -1,4 +1,4 @@
-### Olá! eu sou a Lili :)
+### Olá! Eu sou a Lili :)
 
 - 🌱 TI 
 - 🍪 21 years 
@@ -35,7 +35,6 @@
   <img align="right" alt="Lilii-Gif" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/585243177754296341/942468904947703859/gifzin.gif">
 </div>
   		
- ##
   
 <div>
   
