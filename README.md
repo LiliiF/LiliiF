@@ -1,10 +1,13 @@
-### Olá! Eu sou a Lili :)
 
+### Olá! Eu sou a Lili :)
+<div>
 - 🌱 Desenvolvedor
 - 🍪 23 years 
 - 🌎 Brasil
 
   <img align="right" alt="me" height="250" style="border-radius:50px;" src="https://media.discordapp.net/attachments/1105871451954884688/1291900288952832010/5_Sem_Titulo_20241004201000.png?ex=69ed49e7&is=69ebf867&hm=73de8e1f0e053d5e4ec4d4a8f11f37dbf1993173e0e16a0c555027fc65cdc867&=&format=webp&quality=lossless&width=960&height=960">
+  
+</div>
  
   <div style="display: inline_block"><br>
   
