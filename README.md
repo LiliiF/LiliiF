@@ -1,13 +1,10 @@
 
 ### Olá! Eu sou a Lili :)
-<div>
+
 - 🌱 Desenvolvedor
 - 🍪 23 years 
 - 🌎 Brasil
 
-  <img align="right" alt="me" height="250" style="border-radius:50px;" src="https://media.discordapp.net/attachments/1105871451954884688/1291900288952832010/5_Sem_Titulo_20241004201000.png?ex=69ed49e7&is=69ebf867&hm=73de8e1f0e053d5e4ec4d4a8f11f37dbf1993173e0e16a0c555027fc65cdc867&=&format=webp&quality=lossless&width=960&height=960">
-  
-</div>
  
   <div style="display: inline_block"><br>
   
@@ -18,7 +15,8 @@
 </div>
       
   # 📚 Aprendendo:
-<div style="display: inline_block"><br>
+  <img align="right" alt="me" height="250" src="https://media.discordapp.net/attachments/1105871451954884688/1291221548912345129/7_Sem_Titulo_20230824114500.png?ex=69eccc06&is=69eb7a86&hm=5c196f0dda11341da87b857153c33b923c8d2be04226bbe400f2b2cf8584a007&=&format=webp&quality=lossless&width=723&height=960">
+   <div style="display: inline_block"><br> 
   <img alt="HTML" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img alt="CSS" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">   
   <img alt="Js" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -35,6 +33,8 @@
   <img  alt="Dbeaver" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg" />
   <img  alt="Nodejs" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
   <img  alt="Sequelize" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sequelize/sequelize-original.svg" />
+
+
 <div>
   
   # 📩 Contate-me em:
